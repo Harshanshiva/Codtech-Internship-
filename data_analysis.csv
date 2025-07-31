@@ -1,0 +1,101 @@
+ID,Name,Age,Gender,Income,City,Purchase_Amount,Is_Member,Signup_Date
+1,Person_1,56,Male,49034.33,Los Angeles,811.76,1,2020-02-10
+2,Person_2,46,Female,55173.54,New York,1289.13,1,2022-01-09
+3,Person_3,32,Male,48798.69,New York,1055.96,0,2024-09-23
+4,Person_4,25,Other,46379.3,New York,1727.33,0,2021-05-16
+5,Person_5,38,Other,71502.73,Chicago,1351.52,0,2022-08-16
+6,Person_6,56,Female,65986.91,Phoenix,409.58,1,2023-03-14
+7,Person_7,36,Male,12518.61,Los Angeles,234.08,1,2023-05-09
+8,Person_8,40,Other,72204.93,Los Angeles,1320.6,0,2022-07-17
+9,Person_9,28,Female,82380.93,Chicago,150.37,0,2024-10-13
+10,Person_10,28,Other,68476.68,Los Angeles,1212.97,1,2021-04-05
+11,Person_11,41,Other,46785.13,New York,1886.44,1,2022-01-01
+12,Person_12,53,Male,39662.09,Phoenix,1193.4,0,2022-01-21
+13,Person_13,57,Other,60917.5,Houston,837.52,0,2022-07-13
+14,Person_14,41,Male,40713.96,Los Angeles,1322.25,1,2022-06-27
+15,Person_15,20,Other,55342.4,New York,970.68,0,2024-04-30
+16,Person_16,39,Female,49671.79,Houston,1136.67,0,2024-04-19
+17,Person_17,19,Other,68270.76,Phoenix,1888.78,0,2023-06-30
+18,Person_18,41,Male,44158.13,Houston,833.6,1,2021-01-24
+19,Person_19,47,Male,43357.96,New York,1926.26,1,2024-06-05
+20,Person_20,55,Female,55673.4,Houston,1820.17,1,2022-06-01
+21,Person_21,19,Other,79007.6,Chicago,472.0,1,2020-09-12
+22,Person_22,38,Other,51214.56,Houston,231.79,1,2021-12-09
+23,Person_23,50,Female,43753.15,Los Angeles,291.48,1,2021-03-25
+24,Person_24,29,Other,62862.55,Los Angeles,134.62,1,2020-01-10
+25,Person_25,39,Other,60771.92,Chicago,279.44,0,2022-04-03
+26,Person_26,42,Male,35727.92,New York,1397.71,0,2022-03-08
+27,Person_27,44,Other,41957.6,Los Angeles,235.26,0,2023-06-19
+28,Person_28,59,Other,66447.93,Phoenix,706.05,0,2023-06-28
+29,Person_29,45,Female,56420.19,Los Angeles,1705.26,0,2022-05-26
+30,Person_30,33,Female,12954.52,Los Angeles,144.22,0,2022-10-25
+31,Person_31,32,Male,57229.69,New York,1647.49,0,2023-02-16
+32,Person_32,20,Other,63896.85,Houston,635.52,1,2022-10-12
+33,Person_33,54,Other,37436.28,Los Angeles,324.51,1,2024-12-29
+34,Person_34,24,Other,60157.79,Chicago,1423.8,0,2021-01-08
+35,Person_35,38,Male,78084.79,Houston,1294.99,0,2022-12-24
+36,Person_36,26,Male,55945.61,Phoenix,1767.2,1,2020-05-25
+37,Person_37,56,Female,40615.76,New York,1496.63,0,2020-08-11
+38,Person_38,35,Male,42163.08,Phoenix,1626.61,0,2023-06-16
+39,Person_39,21,Other,50195.51,Houston,635.87,1,2020-06-25
+40,Person_40,42,Other,55666.54,Houston,437.14,0,2024-12-07
+41,Person_41,31,Male,50942.37,Houston,1526.17,1,2022-05-02
+42,Person_42,26,Other,57523.95,Phoenix,1632.99,0,2023-07-29
+43,Person_43,43,Other,47795.82,Houston,1981.96,1,2020-03-03
+44,Person_44,19,Male,52709.34,Phoenix,883.97,1,2023-05-25
+45,Person_45,37,Male,64472.16,Houston,806.83,1,2022-04-06
+46,Person_46,45,Other,34027.53,Chicago,1575.18,0,2022-03-05
+47,Person_47,24,Other,51630.68,Houston,747.53,1,2021-11-19
+48,Person_48,25,Other,51586.45,Phoenix,1868.44,0,2024-01-24
+49,Person_49,52,Female,63810.0,Los Angeles,1730.98,0,2024-06-21
+50,Person_50,31,Female,46599.16,Houston,915.09,0,2020-04-14
+51,Person_51,34,Female,59795.72,Los Angeles,1526.66,0,2023-01-27
+52,Person_52,53,Male,66540.31,Chicago,1533.63,1,2021-05-25
+53,Person_53,57,Female,22252.96,New York,295.94,1,2021-01-19
+54,Person_54,21,Male,67529.47,Chicago,1814.85,0,2021-02-08
+55,Person_55,19,Male,35219.27,Houston,1059.98,0,2022-04-02
+56,Person_56,23,Female,33590.89,Los Angeles,1670.27,1,2021-06-01
+57,Person_57,59,Female,6808.15,Los Angeles,708.09,0,2021-04-20
+58,Person_58,21,Female,37952.34,Phoenix,1801.49,1,2021-12-09
+59,Person_59,46,Other,49927.15,Los Angeles,839.48,0,2024-07-26
+60,Person_60,35,Female,44250.15,Phoenix,120.59,0,2022-02-09
+61,Person_61,43,Other,43062.1,New York,1820.23,1,2023-12-31
+62,Person_62,51,Male,33312.54,Houston,273.44,0,2022-11-12
+63,Person_63,27,Other,63008.44,Phoenix,706.7,1,2022-09-23
+64,Person_64,53,Female,64376.21,New York,1905.12,0,2024-05-07
+65,Person_65,31,Male,56271.78,Los Angeles,1906.15,0,2021-11-07
+66,Person_66,48,Male,21702.08,Los Angeles,1189.53,0,2021-12-14
+67,Person_67,32,Male,84100.18,New York,1300.49,1,2024-01-21
+68,Person_68,25,Other,52204.62,Los Angeles,952.05,0,2020-03-23
+69,Person_69,31,Female,58094.14,New York,657.1,0,2023-03-14
+70,Person_70,40,Male,27525.57,Phoenix,724.46,0,2023-01-13
+71,Person_71,57,Male,49828.35,Phoenix,1377.79,0,2023-01-06
+72,Person_72,38,Male,56200.31,New York,1529.51,1,2021-04-01
+73,Person_73,33,Other,47886.52,Phoenix,1604.0,1,2020-01-01
+74,Person_74,35,Other,63082.43,Phoenix,1600.27,0,2020-02-20
+75,Person_75,41,Female,69505.18,Phoenix,273.29,1,2021-11-15
+76,Person_76,43,Other,29847.14,Chicago,1039.4,0,2021-12-17
+77,Person_77,42,Male,62751.81,Houston,209.36,0,2024-11-30
+78,Person_78,58,Female,55915.1,Los Angeles,1144.1,0,2024-01-09
+79,Person_79,46,Male,49929.56,Chicago,938.91,1,2021-03-24
+80,Person_80,32,Male,26437.82,Phoenix,1786.64,1,2022-05-30
+81,Person_81,18,Other,72197.73,New York,766.74,1,2021-05-02
+82,Person_82,42,Female,55951.61,Phoenix,322.43,1,2024-12-28
+83,Person_83,24,Other,23251.23,Houston,371.68,1,2020-02-03
+84,Person_84,26,Other,46352.98,Phoenix,1546.87,1,2023-10-03
+85,Person_85,41,Female,54908.35,New York,1274.61,1,2020-04-04
+86,Person_86,18,Male,57598.63,Houston,292.13,1,2022-12-31
+87,Person_87,25,Male,48085.93,Phoenix,259.8,1,2024-04-23
+88,Person_88,41,Female,55123.86,Houston,1431.84,0,2020-06-02
+89,Person_89,28,Male,81783.29,Los Angeles,238.25,1,2020-09-06
+90,Person_90,34,Female,73198.05,Los Angeles,1661.53,1,2021-11-04
+91,Person_91,25,Female,35757.21,Phoenix,1441.86,1,2021-03-13
+92,Person_92,52,Other,41046.54,Houston,254.56,1,2020-04-27
+93,Person_93,52,Female,48331.94,New York,261.19,1,2022-02-09
+94,Person_94,50,Other,23763.96,Phoenix,1974.62,1,2023-08-22
+95,Person_95,22,Male,29878.95,Los Angeles,811.11,1,2020-09-24
+96,Person_96,59,Male,25674.58,Los Angeles,804.22,1,2022-12-13
+97,Person_97,56,Male,32784.2,Phoenix,1644.32,1,2020-08-23
+98,Person_98,58,Male,70844.04,Houston,1899.77,1,2021-01-23
+99,Person_99,45,Other,37171.39,Los Angeles,1973.4,1,2022-09-16
+100,Person_100,24,Male,34594.07,Houston,1531.42,0,2024-10-23
